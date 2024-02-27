@@ -1,0 +1,11 @@
+﻿@{
+    ViewData["Title"] = "Numbers";
+}
+<h1>@ViewData["Title"]</h1>
+
+
+ 
+
+
+
+<h1 class="@(ViewBag.Numara % 2 == 0 ? "text-success  " : "text-danger ")">@ViewBag.Numara</h1>

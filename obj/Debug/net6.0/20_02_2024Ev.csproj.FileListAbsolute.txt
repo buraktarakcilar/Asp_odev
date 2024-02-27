@@ -1,0 +1,78 @@
+D:\20_02_2024Ev\bin\Debug\net6.0\appsettings.Development.json
+D:\20_02_2024Ev\bin\Debug\net6.0\appsettings.json
+D:\20_02_2024Ev\bin\Debug\net6.0\20_02_2024Ev.staticwebassets.runtime.json
+D:\20_02_2024Ev\bin\Debug\net6.0\20_02_2024Ev.exe
+D:\20_02_2024Ev\bin\Debug\net6.0\20_02_2024Ev.deps.json
+D:\20_02_2024Ev\bin\Debug\net6.0\20_02_2024Ev.runtimeconfig.json
+D:\20_02_2024Ev\bin\Debug\net6.0\20_02_2024Ev.dll
+D:\20_02_2024Ev\bin\Debug\net6.0\20_02_2024Ev.pdb
+D:\20_02_2024Ev\obj\Debug\net6.0\20_02_2024Ev.csproj.AssemblyReference.cache
+D:\20_02_2024Ev\obj\Debug\net6.0\20_02_2024Ev.GeneratedMSBuildEditorConfig.editorconfig
+D:\20_02_2024Ev\obj\Debug\net6.0\20_02_2024Ev.AssemblyInfoInputs.cache
+D:\20_02_2024Ev\obj\Debug\net6.0\20_02_2024Ev.AssemblyInfo.cs
+D:\20_02_2024Ev\obj\Debug\net6.0\20_02_2024Ev.csproj.CoreCompileInputs.cache
+D:\20_02_2024Ev\obj\Debug\net6.0\20_02_2024Ev.MvcApplicationPartsAssemblyInfo.cache
+D:\20_02_2024Ev\obj\Debug\net6.0\20_02_2024Ev.RazorAssemblyInfo.cache
+D:\20_02_2024Ev\obj\Debug\net6.0\20_02_2024Ev.RazorAssemblyInfo.cs
+D:\20_02_2024Ev\obj\Debug\net6.0\staticwebassets.build.json
+D:\20_02_2024Ev\obj\Debug\net6.0\staticwebassets.development.json
+D:\20_02_2024Ev\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\20_02_2024Ev\obj\Debug\net6.0\scopedcss\bundle\20_02_2024Ev.styles.css
+D:\20_02_2024Ev\obj\Debug\net6.0\scopedcss\projectbundle\20_02_2024Ev.bundle.scp.css
+D:\20_02_2024Ev\obj\Debug\net6.0\20_02_2024Ev.dll
+D:\20_02_2024Ev\obj\Debug\net6.0\refint\20_02_2024Ev.dll
+D:\20_02_2024Ev\obj\Debug\net6.0\20_02_2024Ev.pdb
+D:\20_02_2024Ev\obj\Debug\net6.0\20_02_2024Ev.genruntimeconfig.cache
+D:\20_02_2024Ev\obj\Debug\net6.0\ref\20_02_2024Ev.dll
+G:\WebTasarım2.Dönem\EvCalisma Web\bin\Debug\net6.0\appsettings.Development.json
+G:\WebTasarım2.Dönem\EvCalisma Web\bin\Debug\net6.0\appsettings.json
+G:\WebTasarım2.Dönem\EvCalisma Web\bin\Debug\net6.0\20_02_2024Ev.staticwebassets.runtime.json
+G:\WebTasarım2.Dönem\EvCalisma Web\bin\Debug\net6.0\20_02_2024Ev.exe
+G:\WebTasarım2.Dönem\EvCalisma Web\bin\Debug\net6.0\20_02_2024Ev.deps.json
+G:\WebTasarım2.Dönem\EvCalisma Web\bin\Debug\net6.0\20_02_2024Ev.runtimeconfig.json
+G:\WebTasarım2.Dönem\EvCalisma Web\bin\Debug\net6.0\20_02_2024Ev.dll
+G:\WebTasarım2.Dönem\EvCalisma Web\bin\Debug\net6.0\20_02_2024Ev.pdb
+G:\WebTasarım2.Dönem\EvCalisma Web\obj\Debug\net6.0\20_02_2024Ev.csproj.AssemblyReference.cache
+G:\WebTasarım2.Dönem\EvCalisma Web\obj\Debug\net6.0\20_02_2024Ev.GeneratedMSBuildEditorConfig.editorconfig
+G:\WebTasarım2.Dönem\EvCalisma Web\obj\Debug\net6.0\20_02_2024Ev.AssemblyInfoInputs.cache
+G:\WebTasarım2.Dönem\EvCalisma Web\obj\Debug\net6.0\20_02_2024Ev.AssemblyInfo.cs
+G:\WebTasarım2.Dönem\EvCalisma Web\obj\Debug\net6.0\20_02_2024Ev.csproj.CoreCompileInputs.cache
+G:\WebTasarım2.Dönem\EvCalisma Web\obj\Debug\net6.0\20_02_2024Ev.MvcApplicationPartsAssemblyInfo.cache
+G:\WebTasarım2.Dönem\EvCalisma Web\obj\Debug\net6.0\20_02_2024Ev.RazorAssemblyInfo.cache
+G:\WebTasarım2.Dönem\EvCalisma Web\obj\Debug\net6.0\20_02_2024Ev.RazorAssemblyInfo.cs
+G:\WebTasarım2.Dönem\EvCalisma Web\obj\Debug\net6.0\staticwebassets.build.json
+G:\WebTasarım2.Dönem\EvCalisma Web\obj\Debug\net6.0\staticwebassets.development.json
+G:\WebTasarım2.Dönem\EvCalisma Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+G:\WebTasarım2.Dönem\EvCalisma Web\obj\Debug\net6.0\scopedcss\bundle\20_02_2024Ev.styles.css
+G:\WebTasarım2.Dönem\EvCalisma Web\obj\Debug\net6.0\scopedcss\projectbundle\20_02_2024Ev.bundle.scp.css
+G:\WebTasarım2.Dönem\EvCalisma Web\obj\Debug\net6.0\20_02_2024Ev.dll
+G:\WebTasarım2.Dönem\EvCalisma Web\obj\Debug\net6.0\refint\20_02_2024Ev.dll
+G:\WebTasarım2.Dönem\EvCalisma Web\obj\Debug\net6.0\20_02_2024Ev.pdb
+G:\WebTasarım2.Dönem\EvCalisma Web\obj\Debug\net6.0\20_02_2024Ev.genruntimeconfig.cache
+G:\WebTasarım2.Dönem\EvCalisma Web\obj\Debug\net6.0\ref\20_02_2024Ev.dll
+D:\EvCalisma Web\bin\Debug\net6.0\appsettings.Development.json
+D:\EvCalisma Web\bin\Debug\net6.0\appsettings.json
+D:\EvCalisma Web\bin\Debug\net6.0\20_02_2024Ev.staticwebassets.runtime.json
+D:\EvCalisma Web\bin\Debug\net6.0\20_02_2024Ev.exe
+D:\EvCalisma Web\bin\Debug\net6.0\20_02_2024Ev.deps.json
+D:\EvCalisma Web\bin\Debug\net6.0\20_02_2024Ev.runtimeconfig.json
+D:\EvCalisma Web\bin\Debug\net6.0\20_02_2024Ev.dll
+D:\EvCalisma Web\bin\Debug\net6.0\20_02_2024Ev.pdb
+D:\EvCalisma Web\obj\Debug\net6.0\20_02_2024Ev.csproj.AssemblyReference.cache
+D:\EvCalisma Web\obj\Debug\net6.0\20_02_2024Ev.GeneratedMSBuildEditorConfig.editorconfig
+D:\EvCalisma Web\obj\Debug\net6.0\20_02_2024Ev.AssemblyInfoInputs.cache
+D:\EvCalisma Web\obj\Debug\net6.0\20_02_2024Ev.AssemblyInfo.cs
+D:\EvCalisma Web\obj\Debug\net6.0\20_02_2024Ev.csproj.CoreCompileInputs.cache
+D:\EvCalisma Web\obj\Debug\net6.0\20_02_2024Ev.MvcApplicationPartsAssemblyInfo.cache
+D:\EvCalisma Web\obj\Debug\net6.0\20_02_2024Ev.RazorAssemblyInfo.cache
+D:\EvCalisma Web\obj\Debug\net6.0\20_02_2024Ev.RazorAssemblyInfo.cs
+D:\EvCalisma Web\obj\Debug\net6.0\staticwebassets.build.json
+D:\EvCalisma Web\obj\Debug\net6.0\staticwebassets.development.json
+D:\EvCalisma Web\obj\Debug\net6.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\EvCalisma Web\obj\Debug\net6.0\scopedcss\bundle\20_02_2024Ev.styles.css
+D:\EvCalisma Web\obj\Debug\net6.0\scopedcss\projectbundle\20_02_2024Ev.bundle.scp.css
+D:\EvCalisma Web\obj\Debug\net6.0\20_02_2024Ev.dll
+D:\EvCalisma Web\obj\Debug\net6.0\refint\20_02_2024Ev.dll
+D:\EvCalisma Web\obj\Debug\net6.0\20_02_2024Ev.pdb
+D:\EvCalisma Web\obj\Debug\net6.0\20_02_2024Ev.genruntimeconfig.cache
+D:\EvCalisma Web\obj\Debug\net6.0\ref\20_02_2024Ev.dll

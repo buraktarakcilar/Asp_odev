@@ -1,0 +1,12 @@
+﻿@{
+    ViewData["Title"] = "Lessons";
+}
+<h1>@ViewData["Title"]</h1>
+<ul>
+    @foreach (var item in ViewBag.lessons)
+{
+ <li><a href="#" >@item</a></li>;
+}
+
+   
+</ul>
